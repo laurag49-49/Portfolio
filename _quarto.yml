@@ -12,6 +12,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: Test1.qmd
+      text: about me
 
 format:
   html:

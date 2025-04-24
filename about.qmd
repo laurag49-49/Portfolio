@@ -1,10 +1,12 @@
 ---
 title: "About"
+
 ---
+
+About this site
 ```{r}
 
 X=1+5
 X
 ```
 
-About this site
