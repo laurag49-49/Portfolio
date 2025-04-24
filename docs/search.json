@@ -1,16 +1,16 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\nX=1+5\nX\n\n[1] 6"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Portfolio",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "X=1+5\nX\n\n[1] 6\n\n\nAbout this site"
   }
 ]

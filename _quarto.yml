@@ -11,9 +11,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - href: Test1.qmd
-      text: about me
+        text: about me
 
 format:
   html:
