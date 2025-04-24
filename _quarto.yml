@@ -21,5 +21,12 @@ format:
     css: styles.css
     toc: true
 
+#git add docs
+#git commit -m "Render Quarto site to docs and add .nojekyll"
+#git push
 
+#git add docs/.nojekyll
+#git add -f docs  # force add if it’s being ignored
+#git commit -m "Add .nojekyll to disable Jekyll"
+#git push
 
